@@ -1,4 +1,3 @@
-
 #kurulum
 git clone https://github.com/Mutersec/SocialPhishTool
 cd SocialPhish
