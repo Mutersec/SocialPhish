@@ -1,6 +1,5 @@
-
 #kurulum
-git clone https://github.com/Mutersec/SocialPhishTool
+git clone https://github.com/Mutersec/SocialPhish
 cd SocialPhish
 chmod +x socialphish.sh
 ./socialphish.sh
